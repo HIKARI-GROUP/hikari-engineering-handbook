@@ -1,29 +1,53 @@
-# Roadmap
+# Roadmap — HIKARI Engineering Handbook
 
-## Vision
+> Our vision for the future of this project.
+
+## 🎯 Vision
 
 Build the reference open-source ecosystem for PropTech, real estate data, and engineering best practices.
 
-## Milestones
+## 📅 Milestones
 
-### v1.0 — Foundation
+### v1.0 — Core Documentation
 
-- [ ] Initial setup
-- [ ] Documentation
-- [ ] Basic components
+- [ ] Architecture
+- [ ] Standards
+- [ ] Onboarding
+- [ ] Security
 
-### v2.1 — Expansion
+### v2.1 — Deep Dives
 
-- [ ] More components
-- [ ] Tests
-- [ ] Examples
+- [ ] Decision records
+- [ ] Post-mortems
+- [ ] Performance guide
+- [ ] Scaling guide
 
 ### v3.2 — Community
 
-- [ ] Contributor onboarding
-- [ ] Discussions
-- [ ] Showcase
+- [ ] Contributor guide
+- [ ] Mentorship program
+- [ ] Tech talks
 
-## How to Influence
+## 🔮 Long-term Vision
 
-Open a [Discussion](https://github.com/HIKARI-GROUP/.github/discussions) with category "Ideas" or "Roadmap".
+### 3-Year Vision
+- Industry-standard PropTech toolkit
+- Active contributor community (100+ contributors)
+- Used by 1000+ developers
+- Integrated with major French real estate platforms
+
+### 10-Year Vision
+- The reference platform for real estate investment analysis in France
+- AI-powered investment recommendations at scale
+- Open data transparency for the entire real estate market
+- HIKARI Foundation supporting open-source PropTech
+
+## 💡 How to Influence
+
+Open a [Discussion](https://github.com/HIKARI-GROUP/hikari-engineering-handbook/discussions) with category "Ideas" or "Roadmap".
+
+---
+
+<div align="center">
+  <sub>Last updated: 2026-07-17</sub>
+</div>
